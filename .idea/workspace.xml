@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b0d3169a-010b-46f4-8893-56d61b01c525" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Django_One/.idea/Django_One.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django_One/Users/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django_One/Users/templates/aboutus.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django_One/Users/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django_One/Users/templates/contacts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django_One/Users/templates/employee_form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django_One/Users/templates/employee_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django_One/Users/templates/gallery.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django_One/Users/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django_One/Users/templates/practice.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django_One/Users/templates/show.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django_One/Users/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django_One/static/css/bootstrap/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django_One/static/css/bootstrap/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django_One/static/css/bootstrap/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django_One/static/css/bootstrap/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django_One/static/css/bootstrap/css/bootstrap-grid.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django_One/static/css/bootstrap/css/bootstrap-grid.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django_One/static/css/bootstrap/css/bootstrap-grid.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django_One/static/css/bootstrap/css/bootstrap-grid.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django_One/static/css/bootstrap/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django_One/static/css/bootstrap/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django_One/static/css/bootstrap/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django_One/static/css/bootstrap/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django_One/static/css/bootstrap/css/bootstrap-reboot.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django_One/static/css/bootstrap/css/bootstrap-reboot.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django_One/static/css/bootstrap/css/bootstrap-reboot.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django_One/static/css/bootstrap/css/bootstrap-reboot.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django_One/static/css/bootstrap/css/bootstrap-utilities.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django_One/static/css/bootstrap/css/bootstrap-utilities.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django_One/static/css/bootstrap/css/bootstrap-utilities.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django_One/static/css/bootstrap/css/bootstrap-utilities.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django_One/static/css/bootstrap/css/bootstrap-utilities.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django_One/static/css/bootstrap/css/bootstrap-utilities.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django_One/static/css/bootstrap/css/bootstrap-utilities.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django_One/static/css/bootstrap/css/bootstrap-utilities.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django_One/static/css/bootstrap/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django_One/static/css/bootstrap/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django_One/static/css/bootstrap/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django_One/static/css/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django_One/static/css/bootstrap/css/bootstrap.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django_One/static/css/bootstrap/css/bootstrap.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django_One/static/css/bootstrap/css/bootstrap.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django_One/static/css/bootstrap/css/bootstrap.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django_One/static/css/bootstrap/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django_One/static/css/bootstrap/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django_One/static/css/bootstrap/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django_One/static/css/bootstrap/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django_One/static/css/bootstrap/js/bootstrap.esm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django_One/static/css/bootstrap/js/bootstrap.esm.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django_One/static/css/bootstrap/js/bootstrap.esm.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django_One/static/css/bootstrap/js/bootstrap.esm.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django_One/static/css/bootstrap/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django_One/static/css/bootstrap/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django_One/static/css/bootstrap/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django_One/static/css/bootstrap/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django_One/static/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django_One/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django_Two/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Django_Two/.idea/Django_Two.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPESAAPI/mpesaapiapplication/templates/buy.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MPESAAPI/mpesaapiapplication/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PyCharm 2023.3.3.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestAPI/myapplication/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RestAPI/myapplication/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../White Rooks/.idea/White Rooks.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assessment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangotest1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangotest1/.idea/djangotest1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangotest1/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangotest1/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangotest1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangotest1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangotest1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangotest1/Interns/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangotest1/Interns/templates/application_list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangotest1/Interns/templates/show.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangotest1/Interns/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../djangotest1/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inkwell/.idea/inkwell.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inkwell/16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inkwell/Aboutus.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inkwell/Contacts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inkwell/Esther invitation card.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inkwell/Hanging_T-Shirt_Mockup.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inkwell/Home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inkwell/Inkwell Card (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inkwell/Inkwell Card (2).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inkwell/Inkwell Card.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inkwell/MSK COMING SOON (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inkwell/MSK COMING SOON.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inkwell/Match day liv vs ever. pic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inkwell/Msk moodboard (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inkwell/Portfolio.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inkwell/Saphire homes flyer export.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inkwell/Saphire logo mockup.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inkwell/WISNICK (2).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inkwell/WhatsApp Image 2023-05-16 at 1.05.18 AM.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inkwell/africraft 2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inkwell/africraft final.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inkwell/bootstrap-5.1.3-dist/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inkwell/bootstrap-5.1.3-dist/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inkwell/bootstrap-5.1.3-dist/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inkwell/bootstrap-5.1.3-dist/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inkwell/bootstrap-5.1.3-dist/css/bootstrap-grid.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inkwell/bootstrap-5.1.3-dist/css/bootstrap-grid.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inkwell/bootstrap-5.1.3-dist/css/bootstrap-grid.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inkwell/bootstrap-5.1.3-dist/css/bootstrap-grid.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inkwell/bootstrap-5.1.3-dist/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inkwell/bootstrap-5.1.3-dist/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inkwell/bootstrap-5.1.3-dist/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inkwell/bootstrap-5.1.3-dist/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inkwell/bootstrap-5.1.3-dist/css/bootstrap-reboot.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inkwell/bootstrap-5.1.3-dist/css/bootstrap-reboot.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inkwell/bootstrap-5.1.3-dist/css/bootstrap-reboot.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inkwell/bootstrap-5.1.3-dist/css/bootstrap-reboot.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inkwell/bootstrap-5.1.3-dist/css/bootstrap-utilities.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inkwell/bootstrap-5.1.3-dist/css/bootstrap-utilities.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inkwell/bootstrap-5.1.3-dist/css/bootstrap-utilities.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inkwell/bootstrap-5.1.3-dist/css/bootstrap-utilities.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inkwell/bootstrap-5.1.3-dist/css/bootstrap-utilities.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inkwell/bootstrap-5.1.3-dist/css/bootstrap-utilities.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inkwell/bootstrap-5.1.3-dist/css/bootstrap-utilities.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inkwell/bootstrap-5.1.3-dist/css/bootstrap-utilities.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inkwell/bootstrap-5.1.3-dist/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inkwell/bootstrap-5.1.3-dist/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inkwell/bootstrap-5.1.3-dist/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inkwell/bootstrap-5.1.3-dist/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inkwell/bootstrap-5.1.3-dist/css/bootstrap.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inkwell/bootstrap-5.1.3-dist/css/bootstrap.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inkwell/bootstrap-5.1.3-dist/css/bootstrap.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inkwell/bootstrap-5.1.3-dist/css/bootstrap.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inkwell/bootstrap-5.1.3-dist/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inkwell/bootstrap-5.1.3-dist/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inkwell/bootstrap-5.1.3-dist/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inkwell/bootstrap-5.1.3-dist/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inkwell/bootstrap-5.1.3-dist/js/bootstrap.esm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inkwell/bootstrap-5.1.3-dist/js/bootstrap.esm.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inkwell/bootstrap-5.1.3-dist/js/bootstrap.esm.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inkwell/bootstrap-5.1.3-dist/js/bootstrap.esm.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inkwell/bootstrap-5.1.3-dist/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inkwell/bootstrap-5.1.3-dist/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inkwell/bootstrap-5.1.3-dist/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inkwell/bootstrap-5.1.3-dist/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inkwell/call.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inkwell/cj jewel.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inkwell/crafty 3d 2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inkwell/crafty 3d@1.25x (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inkwell/crafty 3d@1.25x.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inkwell/e2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inkwell/everything will be okay tiktok.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inkwell/her cosmetic boteles@1.5x.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inkwell/her wall hanging.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inkwell/i1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inkwell/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inkwell/inkwell tee (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inkwell/parcel pro chapchap mockup 2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inkwell/sports poster.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../inkwell/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../irungu101/.idea/irungu101.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../irungu101/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../portfolio/.idea/portfolio1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../portfolio/c1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../portfolio/iPortfolio/assets/css/c1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../portfolio2/.idea/practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../portfolio2/Objectoriented1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../portfolio2/backed6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../portfolio2/backend.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../portfolio2/backend2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../portfolio2/backend3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../portfolio2/backend4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../portfolio2/backend5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../portfolio2/functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../portfolio2/gallery.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../portfolio2/location.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../portfolio2/practice.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/audi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/bootstrap-5.1.3-dist/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/bootstrap-5.1.3-dist/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/bootstrap-5.1.3-dist/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/bootstrap-5.1.3-dist/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/bootstrap-5.1.3-dist/css/bootstrap-grid.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/bootstrap-5.1.3-dist/css/bootstrap-grid.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/bootstrap-5.1.3-dist/css/bootstrap-grid.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/bootstrap-5.1.3-dist/css/bootstrap-grid.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/bootstrap-5.1.3-dist/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/bootstrap-5.1.3-dist/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/bootstrap-5.1.3-dist/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/bootstrap-5.1.3-dist/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/bootstrap-5.1.3-dist/css/bootstrap-reboot.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/bootstrap-5.1.3-dist/css/bootstrap-reboot.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/bootstrap-5.1.3-dist/css/bootstrap-reboot.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/bootstrap-5.1.3-dist/css/bootstrap-reboot.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/bootstrap-5.1.3-dist/css/bootstrap-utilities.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/bootstrap-5.1.3-dist/css/bootstrap-utilities.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/bootstrap-5.1.3-dist/css/bootstrap-utilities.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/bootstrap-5.1.3-dist/css/bootstrap-utilities.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/bootstrap-5.1.3-dist/css/bootstrap-utilities.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/bootstrap-5.1.3-dist/css/bootstrap-utilities.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/bootstrap-5.1.3-dist/css/bootstrap-utilities.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/bootstrap-5.1.3-dist/css/bootstrap-utilities.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/bootstrap-5.1.3-dist/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/bootstrap-5.1.3-dist/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/bootstrap-5.1.3-dist/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/bootstrap-5.1.3-dist/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/bootstrap-5.1.3-dist/css/bootstrap.rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/bootstrap-5.1.3-dist/css/bootstrap.rtl.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/bootstrap-5.1.3-dist/css/bootstrap.rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/bootstrap-5.1.3-dist/css/bootstrap.rtl.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/bootstrap-5.1.3-dist/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/bootstrap-5.1.3-dist/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/bootstrap-5.1.3-dist/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/bootstrap-5.1.3-dist/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/bootstrap-5.1.3-dist/js/bootstrap.esm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/bootstrap-5.1.3-dist/js/bootstrap.esm.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/bootstrap-5.1.3-dist/js/bootstrap.esm.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/bootstrap-5.1.3-dist/js/bootstrap.esm.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/bootstrap-5.1.3-dist/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/bootstrap-5.1.3-dist/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/bootstrap-5.1.3-dist/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/bootstrap-5.1.3-dist/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/download (1).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/download (2).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/grid.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/images (2).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/images (3).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/practice.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject2/.idea/pythonProject2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject2/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject2/operators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject2/operatorstest.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2ddynpW3HMZTxO9rorels2qEETW" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Robert/Desktop/projects/JSPSCHESS/STATIC/CSS/bootstrap&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Robert\Desktop\projects\JSPSCHESS\STATIC\CSS\bootstrap" />
+      <recent name="C:\Users\Robert\Desktop\projects\JSPSCHESS\WHITEROOKS" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5a2391486177-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13763.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0d3169a-010b-46f4-8893-56d61b01c525" name="Changes" comment="" />
+      <created>1710352419552</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710352419552</updated>
+      <workItem from="1710352429276" duration="46000" />
+      <workItem from="1710404427853" duration="276000" />
+      <workItem from="1710493185000" duration="199000" />
+      <workItem from="1710572883365" duration="200000" />
+      <workItem from="1710573101681" duration="287000" />
+      <workItem from="1710573419524" duration="294000" />
+      <workItem from="1710573746081" duration="370000" />
+      <workItem from="1710574236293" duration="10000" />
+      <workItem from="1710574267659" duration="21000" />
+      <workItem from="1710576386156" duration="446000" />
+      <workItem from="1710576858293" duration="677000" />
+      <workItem from="1710577840354" duration="94000" />
+      <workItem from="1710577957526" duration="28000" />
+      <workItem from="1710578048595" duration="82000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
